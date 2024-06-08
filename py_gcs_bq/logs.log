@@ -1,0 +1,12 @@
+INFO:root:storage_playstation has been created
+INFO:root:Dataset(DatasetReference('py-gcs-project', 'etl_basics')) dataset created succesfully
+ERROR:root:An error occurred creating the supermarket_sales: Expecting value: line 1 column 1 (char 0)
+ERROR:root:An error occurred creating the supermarket_sales: [Errno 2] No such file or directory: 'py_gcs_bq/schema.json'
+INFO:root:storage_playstation already exist, exitting successfully
+INFO:root:Dataset(DatasetReference('py-gcs-project', 'etl_basics')) already exist, exitting successfully
+ERROR:root:An error occurred creating the supermarket_sales: Expecting value: line 1 column 1 (char 0)
+ERROR:root:An error occurred creating the supermarket_sales: [Errno 2] No such file or directory: 'py_gcs_bq/schema.json'
+INFO:root:storage_playstation already exist, exitting successfully
+INFO:root:Dataset(DatasetReference('py-gcs-project', 'etl_basics')) already exist, exitting successfully
+ERROR:root:An error occurred creating the supermarket_sales: Expecting value: line 1 column 1 (char 0)
+ERROR:root:An error occurred creating the supermarket_sales: [Errno 2] No such file or directory: 'py_gcs_bq/schema.json'
